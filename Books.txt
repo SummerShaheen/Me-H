@@ -1,2 +1,4 @@
 -peopleware (Software Engineering)
 -Code Complete (The penis of CS)
+
+-sam was here 
